@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Glasses & Shades
 image: /img/home-jumbotron.jpg
 heading: Glasses & Shades
 subheading: Subheading
