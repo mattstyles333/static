@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Glasses & Shades
-image: /img/home-jumbotron.jpg
+image: /img/ica-ica-2hrkrytsi1q-unsplash.jpg
 heading: Glasses & Shades
 subheading: Subheading
 mainpitch:
